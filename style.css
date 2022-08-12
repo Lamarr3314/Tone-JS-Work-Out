@@ -13,6 +13,7 @@ button{
     background-color: #9ae1ebc7;
     border: 3px solid rgb(181, 243, 238);
     border-radius: 200px;
+    color: black;
 }
 body{
     background-color: black;
@@ -24,4 +25,5 @@ button:hover{
 }
 a{
     text-decoration: none;
+    margin-left: 155px;
 }
